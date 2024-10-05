@@ -14,6 +14,8 @@ class AdminController extends Controller
      */
     public function allUser()
     {
+
+        
         $admin = auth()->user();
 
         $regularUsers = User::where('role', 1)->get();
