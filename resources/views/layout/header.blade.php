@@ -1,10 +1,10 @@
 <div class="header">
     <img class="logo" alt="Green Harvest Logo" src="File/1-04.png" />
     <div class="signup">
-        <p>
-            Sing Up <br>
-            Login
-        </p>
+        <div>
+            <button id="loginBtn">Login</button><br>
+            <button id="signup">Sign Up</button>
+        </div>
         <img src="File/1-01.png" alt="">
     </div>
     <div class="left">

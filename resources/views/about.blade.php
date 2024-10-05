@@ -51,7 +51,7 @@ margin-top: -170px;
             DAUGHTER, WE UNDERSTAND THE IMPORTANCE OF DELIVERING PROD- <br>
             UCTSTHAT ARE BOTH SAFE AND EFFECTIVE.
         </p>
-        <img src="File/1-14.png" alt="" width="600px" height="425px">
+        <img src="File/1-14.png" alt="" class="img1" width="600px" height="425px">
     </div>
     <div class="about" style="margin-top: 10px;">
         <h1>
@@ -62,27 +62,59 @@ margin-top: -170px;
             HIGHEST STANDARDS OF PURITY AND QUALITY
         </p>
         <p>
-            .EACH PRODUCT IS METICULOUSLY CRAFTED TO ENSURE IT CONTAINS NO HARMFUL
-            CHEMICALS, ALLERGENS, OR SYNTHETIC FRAGRANES, MAKING THEM THE PERFECT
+            .EACH PRODUCT IS METICULOUSLY CRAFTED TO ENSURE IT CONTAINS NO HARMFUL <br>
+            CHEMICALS, ALLERGENS, OR SYNTHETIC FRAGRANES, MAKING THEM THE PERFECT  <br>
             CHOICE FOR THOSE WITH SENSITIVE SKIN.
         </p>
-        <p>
-            GREEN HARVEST IS DEDICATED TO PROVIDING
-            GENUINE, NATURAL CARE THAT YOU CAN
-            TRUST. OUR FOCUS ON PURITY AND SAFETY
-            ENSURES THAT EVERY PRODUCT IS DESIGNED
-            TO OFFER EXCEPTIONAL RESULTS
-            WHILE BEING GENTLE ON EVEN THE MOST
+        <img src="File/33-02.png" alt="" class="img2" width="430px" height="240px">
+        <p class="p1">
+            GREEN HARVEST IS DEDICATED TO PROVID- <br>
+            ING GENUINE, NATURAL CARE THAT YOU CAN <br>
+            TRUST. OUR FOCUS ON PURITY AND SAFETY <br>
+            ENSURES  THAT  EVERY  PRODUCT  IS DE- <br>
+            SIGNED  TO  OFFER EXCEPTIONAL RESULTS <br>
+            WHILE BEING GENTLE ON EVEN THE MOST <br>
             DELICATE SKIN.
         </p>
 
     </div>
+    <div class="about1" style="margin-top: 200px;">
+         <img src="File/1-13.png" alt="" class="img3" width="600px" height="425px">
+    <h1 class="H1">
+        The Story of Green Harvest
+     </h1>
+     <p class="p2">
+           GREEN HARVEST WAS FOUNDED BY A FATHER WHO FACED A SIGNIFICANT CHALLENGE: FINDING <br>
+           SKINCARE PRODUCTS THAT WERE 100% PURE AND NATURAL FOR HIS DAUGHTER. AFTER HIS <br>
+           DAUGHTER'S SENSITIVE SKIN WAS ADVERSELY AFFECTED BY CHEMICALS AND ARTIFICIAL FRAGRANC- <br>
+           ES IN COMMERCIAL PRODUCTS, HE DECIDED TO EMBARK ON A MISSION TO DEVELOP A SKINCARE LINE <br>
+           COMPLETELY FREE OF HARMFUL CHEMICALS.<br>
+           <br>
+           DRIVEN BY HIS DEEP DESIRE TO PROVIDE SAFE AND PURE PRODUCTS, HE INITIATED A METICULOUS <br>
+           DEVELOPMENT PROCESS TO ACHIEVE HIS GOAL. HIS VISION WAS TO CREATE PRODUCTS THAT AD- <br>
+           HERED TO THE HIGHEST STANDARDS OF PURITY AND SAFETY, FREE FROM ANY HARMFUL CHEMI- <br>
+           CALS.<br>
+           <br>
+           TODAY, GREEN HARVEST EXEMPLIFIES THIS COMMITMENT BY OFFERING SKINCARE SOLUTIONS <br>
+           THAT ARE ENTIRELY NATURAL AND METICULOUSLY DESIGNED FOR SENSITIVE SKIN. THE FOUNDER'S <br>
+           STEADFAST FOCUS ON PURITY AND SAFETY IN EACH PRODUCT ENSURES THE DELIVERY OF EFFEC- <br>
+           TIVE AND AUTHENTIC CARE.
+     </p>
+ 
+    </div>
+    <div class="about2">
+    <h1 class="h1">
+        MEET THE TEAM
+     </h1>
+    <p class="p3">
+    AT GREEN HARVEST, OUR SUCCESS IS DRIVEN BY A DEDICATED TEAM OF PROFESSIONALS WHO ARE PASSIONATE ABOUT NATURAL SKINCARE AND COMMITTED TO DELIVERING THE HIGH- <br>
+    EST QUALITY PRODUCTS. GET TO KNOW THE PEOPLE BEHIND OUR BRAND:<br>
+    <br>
+    EACH MEMBER OF OUR TEAM BRINGS UNIQUE EXPERTISE AND A SHARED DEDICATION TO OUR MISSION OF PROVIDING PURE, NATURAL SKINCARE SOLUTIONS. TOGETHER, WE STRIVE TO <br>
+    DELIVER EXCEPTIONAL PRODUCTS AND SERVICES THAT MEET THE HIGHEST STANDARDS OF QUALITY AND INTEGRITY.
+    </p>
+    </div>
 </div>
-<div class="offers" style="height: 700px; margin-top: 150px;">
-    <h1>
-        Offers
-    </h1>
-    <img alt="Back to School Offer" src="img/ss.png" width="1200" />
-</div>
+   
 
 @endsection
