@@ -17,11 +17,12 @@ class User extends Authenticatable
      * @var array<int, string>
      */
     protected $fillable = [
-        'name',
+        'firstName',
+        'lastName',
         'email',
-        'phone',
         'password',
-        'role'
+        'phone',
+        'point',
     ];
 
     /**
@@ -50,8 +51,8 @@ class User extends Authenticatable
 
 
     //kadar
-    public function wallet()
+    public function favoriteProducts()
     {
-        return $this->hasOne(Wallet::class, 'user_id', 'id');
+        return $this->belongsToMany(Product::class, 'favorites')->withTimestamps();
     }
 }
